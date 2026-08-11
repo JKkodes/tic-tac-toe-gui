@@ -2,8 +2,6 @@
 
 A simple desktop Tic-Tac-Toe game built with Python and Tkinter. You play as **X**, the computer plays as **O**.
 
-Built as part of the MLH GitHub Copilot challenge — used GitHub Copilot to generate the initial code, then reviewed and cleaned it up.
-
 ## Features
 
 - 3x3 clickable game board
