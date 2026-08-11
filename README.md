@@ -1,0 +1,29 @@
+Tic-Tac-Toe (GUI)
+
+A simple desktop Tic-Tac-Toe game built with Python and Tkinter. You play as X, the computer plays as O.
+
+Built as part of the MLH GitHub Copilot challenge — used GitHub Copilot to generate the initial code, then reviewed and cleaned it up.
+
+Features
+3x3 clickable game board
+Play against a computer opponent that:
+Takes a winning move when available
+Blocks your winning move when it can
+Prefers the center, then corners, then sides
+Win / lose / draw detection with a popup message
+"Play Again / Reset" button to start a new round
+How to run
+
+Make sure you have Python 3 installed (Tkinter comes built in, no extra installs needed).
+
+bash
+python3 tictactoe.py
+Screenshot
+
+(add your screenshot here — drag the image into this file on GitHub, or reference it like below once uploaded)
+
+![Tic-Tac-Toe screenshot](screenshot.png)
+Built with
+Python 3
+Tkinter (standard library)
+GitHub Copilot (for initial code generation)
